@@ -1,0 +1,6 @@
+h1. abottleinfrontofme
+
+h1. References
+
+* "Google Group":http://groups.google.com/group/team-abottleinfrontofme
+* "ICFP Contest Homepage":http://icfpcontest.org/ (past contest puzzles)
