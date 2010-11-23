@@ -8,3 +8,4 @@ h1. References
 h1. Team
 
 * Kyle Burton :: OS X
+* Trevor Lalish-Menagh :: OS X
